@@ -1,0 +1,3 @@
+﻿  lubanuna.cpp
+C:\Users\maxgo\source\repos\lubanuna\lubanuna\lubanuna.cpp(7,53): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lubanuna.vcxproj -> C:\Users\maxgo\source\repos\lubanuna\x64\Debug\lubanuna.exe
